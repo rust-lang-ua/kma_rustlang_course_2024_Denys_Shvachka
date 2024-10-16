@@ -10,7 +10,7 @@
 
 // Execute 'rustlings hint generics3' for hints!
 
-// I AM NOT DONE
+// I AM DONE
 
 pub struct ReportCard<T> {
     pub grade: T,
